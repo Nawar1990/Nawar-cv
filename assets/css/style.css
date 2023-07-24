@@ -402,6 +402,10 @@ h6 {
 #hero .btn-get-started:hover {
   background: #209dd8;
 }
+#hero .btn-get-started scrollto1 {
+  margin: 10px 10 10 10;
+}
+  
 
 #hero .btn-watch-video {
   font-size: 16px;
