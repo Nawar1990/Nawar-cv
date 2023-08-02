@@ -10,6 +10,8 @@
 # General
 --------------------------------------------------------------*/
 body {
+  background: #000000;
+ 
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }
